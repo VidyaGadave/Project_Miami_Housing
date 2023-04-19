@@ -5,7 +5,7 @@ This repository is created for Miami housing analysis project.
 - Make a copy of config.py.dev and rename it config.py
 - Paste your own Geoapify key in config.py
 
-#Data Flow of the project (E2E Data Pipeline)-
+# Data Flow of the project (E2E Data Pipeline)-
 
 - Miami housing sample 01. - Take sample from complete dataset and save css file
 - Miami fetch postcode 02 - Fetch post codes from API
