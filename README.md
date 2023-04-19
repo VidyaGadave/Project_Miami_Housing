@@ -1,11 +1,19 @@
 # Project_Miami_Housing
-This repository is created for Miami housing analysis project.
+In this project, we are analysing the significance of various factors that affcts house sales price.
+
+# Team members
+Vidya, Brandon, Jen, Emma, Fidel
 
 # Setup Instructions
 - Make a copy of config.py.dev and rename it config.py
 - Paste your own Geoapify key in config.py
 
-# Data Flow of the project (E2E Data Pipeline)-
+# Data Sources
+- Kaggle https://www.kaggle.com/datasets/deepcontractor/miami-housing-dataset 
+- GEOAPIFY https://apidocs.geoapify.com/docs/places/#about, https://apidocs.geoapify.com/docs/place-details/#place-details 
+
+
+# Data flow of the project (E2E Data Pipeline)-
 
 - Miami housing sample 01. - Take sample from complete dataset and save css file
 - Miami fetch postcode 02 - Fetch post codes from API
