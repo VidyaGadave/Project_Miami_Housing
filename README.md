@@ -1,5 +1,5 @@
 # Project_Miami_Housing
-In this project, we are analysing the significance of various factors that affcts house sales price.
+In this project, we are analysing the significance of various factors on house sales price.
 
 # Team members
 Vidya, Brandon, Jen, Emma, Fidel
