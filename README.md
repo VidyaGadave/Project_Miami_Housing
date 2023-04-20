@@ -22,6 +22,8 @@ Vidya, Brandon, Jen, Emma, Fidel
 - Miami zip code hypothesis 05 - top 10 zip codes with maximum sales and contribution of zip codes to overall sale
 - Miami ext factor hypothesis 06 - External factors such as schools, hospital and restaurants significance on sales price
 
-# Which internal factor of house affects the house sales price the most
+# Conclusions -
+
+## Which internal factor of house affects the house sales price the most
 
 After considering couple of things from data such as total living area, sqaure footage, special feature value, ocean distance and age of the house, we can conclude that the most correlated attribute with house price is total living area as per data with a value of 0.6 and then special feature value with correaltion value of 0.4 and square footage with value of 0.29 . Along with these, there are two attributes age and ocean to distance which are negatively correalted with value of -0.12 and -0.24
