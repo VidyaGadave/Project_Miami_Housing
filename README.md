@@ -61,7 +61,7 @@ We hypothesized that the number of schools within a one kilometer radius of a ho
 
 In the first figure below, we see the median sale price of a home for each school density ranking; the data does not appear to disprove the null hypothesis, as (perhaps counterintuitively), median home price is highest among homes with the lowest school density rankings. The second figure below tells a similar story, with homes ranked as Low and Medium-Low in school density account for over two-thirds of the home sales in our data sample. This merits further investigation, as our analysis did not account for school rankings. We also have not investigated school board policy in the Miami-Dade school district. Perhaps the district is more likely to add or establish schools in historically disadvantaged neighborhoods that are not as desirable from a real estate standpoint. 
 
-![Alt text](../my%20copies/Wednesday%20branch%20back-up%20(all%20goods)/Images/sales_count_school_density_bar.png)
+<img src="Images/sales_count_school_density_bar.png">
 
 ![Alt text](../my%20copies/Wednesday%20branch%20back-up%20(all%20goods)/Images/sales_count_school_density_pie.png)
 
