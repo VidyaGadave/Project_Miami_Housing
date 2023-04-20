@@ -43,4 +43,5 @@ After considering couple of things from data such as total living area, sqaure f
 
 ## What impact does school density have on the sale price of a home? 
 
+We hypothesized that the number of schools within a one kilometer radius of a home would be positively correlated with the sale price of the home. To begin testing this hypothesis, we gave each home a school density ranking based on the number of schools within one kilometer: Low (0-1), Medium-Low (2-5), Medium-High (6-10), and High (11-25). We then grouped our data to determine both the median price of homes and the percent of home sales associated with each ranking. 
 
