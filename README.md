@@ -1,5 +1,18 @@
 # Project_Miami_Housing
-In this project, we are analysing the significance of various factors on house sales price.
+
+For this project, we built a replicable analysis to help determine the impact of various factors on housing prices. To ensure that we had sufficient data for our initial analysis, we opted to study Miami housing data from 2016. This project can serve as a proof of concept for investigating our hypotheses; if desired, we could extend this analysis to housing data for the U.S. as a whole, and ultimately globally. 
+
+- To establish our research hypotheses, we selected a range of factors that we thought may have an impact on home sale price in Miami: 
+    Home features (inherent to the property)
+    Square footage of the home 
+    Special features of the home (e.g., pools)
+    Distance to the ocean
+- Location in the city as measured by zip codes 
+- External factors of a neighborhood 
+    Number of schools within a 1km radius of the home
+    Number of hospitals within a 5km radius of the home 
+    Number of restaurants within a 1km radius of the home 
+
 
 # Team members
 Vidya, Brandon, Jen, Emma, Fidel
