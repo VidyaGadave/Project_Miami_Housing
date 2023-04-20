@@ -18,7 +18,7 @@ Vidya, Brandon, Jen, Emma, Fidel
 - Miami housing sample 01. - Take sample from complete dataset and save css file
 - Miami fetch postcode 02 - Fetch post codes from API
 - Miami api calls 03 - Fetch restaurants, schools and hospitals data and merge with dataset
-- Miami hypythesis 04 - T test for sample and internal factors significance on sales price
+- Miami_Hypothesis_04 - This jupyter notebook consists of code which provides details about how sample which is used in analysis represents complete dataset.We have plotted histogram for both sample and complete dataset and calculated mean, median and mode value. Finally, We have used T test show the p-value. Alon with that, We have also plotted scatter plot for various factor such as total living area, sqaure footage, special feature value, ocean distance and age of the house versus house sales price. In order to calculate exact values, we have used linera regression model and calculated the corr value. 
 - Miami zip code hypothesis 05 - top 10 zip codes with maximum sales and contribution of zip codes to overall sale
 - Miami ext factor hypothesis 06 - External factors such as schools, hospital and restaurants significance on sales price
 
