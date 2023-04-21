@@ -42,15 +42,13 @@ Vidya, Brandon, Jen, Emma, Fidel
 ![Most expensive zip codes](zipsbar.png)
 ![Most homes sold zip codes](zipspie.png)
 
-Zip Code Findings:
-* None of the zip codes with the highest quantity of sales are in the top 10 most expensive zip codes in Miami.
-* For deeper analysis, we could compare the sales price ranking to the quantity of homes sold in each Miami zip code area.
-​
-​
-- Miami ext factor hypothesis 06 - External factors such as schools, hospital and restaurants significance on sales price
-​
 # Conclusions:
 ​
+
+## Zip Code Findings:
+* None of the zip codes with the highest quantity of sales are in the top 10 most expensive zip codes in Miami.
+* For deeper analysis, we could compare the sales price ranking to the quantity of homes sold in each Miami zip code area.
+
 ## Which internal factor of house affects the house sales price the most?
 ​
 After considering the data such as total living area, square footage, special feature value, ocean distance and age of the house, we can conclude that the most correlated attribute with house price is total living area as per data with a value of 0.6 and then special feature value with correaltion value of 0.4 and square footage with value of 0.29 . Along with these, there are the two attributes age and ocean to distance which are negatively correalted with value of -0.12 and -0.24. 
