@@ -29,7 +29,7 @@ Vidya, Brandon, Jen, Emma, Fidel
 - Project Presentation (Google Slides): https://docs.google.com/presentation/d/1pNqDHQHA2Y1YPFKtq4fagJ0o8bFCwMwMb67HSur9gcY/edit?usp=sharing
 ​
 ​
-## Data flow of the project (E2E Data Pipeline)-
+# Data flow of the project (E2E Data Pipeline)-
 ​
 - Our original Miami Dataset has 13,932 records, and we were using Geoapify to pull more additional information. Geoapify has a daily limit of 3000 pull, so we have to limit the size of our dataset. We made a random sample of our dataset; since we will need to make 3 pulls per record for schools/hospitals/restaurants, we limited the number of records to 950. We then put the random sample into a csv, and used it for our analysis afterwards.
 
