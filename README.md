@@ -42,6 +42,10 @@ Vidya, Brandon, Jen, Emma, Fidel
 - Miami api calls 03 - Fetch restaurants, schools and hospitals data and merge with dataset
 ### Miami_Hypothesis_04 
 - This jupyter notebook consists of code which provides details about how sample which is used in analysis represents complete dataset. We have plotted histogram for both sample and complete dataset and calculated mean, median and mode value. Finally, We have used T test show the p-value. Along with that, We have also plotted scatter plot for various factor such as total living area, sqaure footage, special feature value, ocean distance and age of the house versus house sales price. In order to calculate exact values, we have used linera regression model and calculated the corr value. 
+
+<img src="Images/Histogram.png">
+
+
 ### Miami zip code hypothesis 05:
  This jupyter notebook analyzes home sales data for Miami zip codes and looks at the most expensive zips versus most home sales zips
 ​
@@ -49,7 +53,7 @@ Vidya, Brandon, Jen, Emma, Fidel
 ![Most expensive zip codes](zipsbar.png)
 ![Most homes sold zip codes](zipspie.png)
 
-# Conclusions:
+# Analysis & Insights:
 ​
 
 ## Zip Code Findings:
@@ -60,7 +64,6 @@ Vidya, Brandon, Jen, Emma, Fidel
 ​
 After considering the data such as total living area, square footage, special feature value, ocean distance and age of the house, we can conclude that the most correlated attribute with house price is total living area as per data with a value of 0.6 and then special feature value with correaltion value of 0.4 and square footage with value of 0.29 . Along with these, there are the two attributes age and ocean to distance which are negatively correalted with value of -0.12 and -0.24. 
 
-<img src="Images/Histogram.png">
 <img src="Images/ScatterPlot.png">
 <img src="Images/Linear_regression.png">
 
