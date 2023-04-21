@@ -31,6 +31,12 @@ Vidya, Brandon, Jen, Emma, Fidel
 ​
 ## Data flow of the project (E2E Data Pipeline)-
 ​
+- Our original Miami Dataset has 13,932 records, and we were using Geoapify to pull more additional information. Geoapify has a daily limit of 3000 pull, so we have to limit the size of our dataset. We made a random sample of our dataset; since we will need to make 3 pulls per record for schools/hospitals/restaurants, we limited the number of records to 950. We then put the random sample into a csv, and used it for our analysis afterwards.
+
+- Using the Places API, we pulled the number of schools, hospitals and restaurants within a 1 km radius, and for the hospital 5 km, of every record in our sample. We used a small radius because all the records are within the same county. The number of results is set to 100 because we want to compare if the number of schools/hospitals/restaurants affects the sales price, and we want to pull all the items within the radius we set.
+
+- Place Details API gives us the full address of our records, where we used the ZIP code to see if it will affect the sales price of a home. 
+
 - Miami housing sample 01. - Take sample from complete dataset and save css file
 - Miami fetch postcode 02 - Fetch post codes from API
 - Miami api calls 03 - Fetch restaurants, schools and hospitals data and merge with dataset
