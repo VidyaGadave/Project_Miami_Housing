@@ -26,6 +26,7 @@ Vidya, Brandon, Jen, Emma, Fidel
 ## Data Sources
 - Kaggle https://www.kaggle.com/datasets/deepcontractor/miami-housing-dataset 
 - GEOAPIFY https://apidocs.geoapify.com/docs/places/#about, https://apidocs.geoapify.com/docs/place-details/#place-details 
+- Project Presentation (Google Slides): https://docs.google.com/presentation/d/1pNqDHQHA2Y1YPFKtq4fagJ0o8bFCwMwMb67HSur9gcY/edit?usp=sharing
 ​
 ​
 ## Data flow of the project (E2E Data Pipeline)-
