@@ -60,6 +60,10 @@ Vidya, Brandon, Jen, Emma, Fidel
 ​
 After considering the data such as total living area, square footage, special feature value, ocean distance and age of the house, we can conclude that the most correlated attribute with house price is total living area as per data with a value of 0.6 and then special feature value with correaltion value of 0.4 and square footage with value of 0.29 . Along with these, there are the two attributes age and ocean to distance which are negatively correalted with value of -0.12 and -0.24. 
 
+<img src="Images/Histogram.png">
+<img src="Images/ScatterPlot.png">
+<img src="Images/Linear_regression.png">
+
 ## What impact does school density have on home sale price? 
 
 We hypothesized that the number of schools within a one kilometer radius of a home would be positively correlated with the sale price of the home. To begin testing this hypothesis, we gave each home a school density ranking based on the number of schools within one kilometer: Low (0-1), Medium-Low (2-5), Medium-High (6-10), and High (11-25). We then grouped our data to determine both the median price of homes and the percent of home sales associated with each ranking. 
