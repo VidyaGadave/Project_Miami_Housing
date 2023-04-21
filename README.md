@@ -88,3 +88,7 @@ In the first figure below, we see the median sale price of a home for each resta
 <img src="Images/sales_count_restaurant_density_pie.png">
 
 <img src="Images/sales_total_restaurant_density_pie.png">
+
+# Conclusion: 
+
+Overall, we did not see as strong of correlations in our analysis as we anticipated there would be between home price and various internal and external factors related to single-family homes in Miami. However, we can make some interesting conclusions. Of the analysis we completed on internal factors, the strongest correlation we see is positive and it is between home sale price and square footage of a home. When it comes to external factors of a home, there seems to be a correlation between home sale price and the restaurant density of the neighborhood (i.e., the greater the number of restaurants within a one kilometer radius of a house, the more expensive it is). 
