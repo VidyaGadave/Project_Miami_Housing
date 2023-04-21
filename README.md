@@ -63,7 +63,7 @@ In the first figure below, we see the median sale price of a home for each schoo
 
 <img src="Images/sales_count_school_density_bar.png">
 
-![Alt text](../my%20copies/Wednesday%20branch%20back-up%20(all%20goods)/Images/sales_count_school_density_pie.png)
+<img src="Images/sales_count_school_density_pie.png">
 
 ## What impact does restaurant density have on home sale price? 
 
@@ -71,8 +71,8 @@ As with schools, we similarly hypothesized that the number of restaurants within
 
 In the first figure below, we see the median sale price of a home for each restaurant density ranking; the data appears to challenge the null hypothesis, though more analysis needs to be done. Homes with the highest restaurant density ranking have the highest median sale price. Interestingly, the number of sales (second figure below) and the total sales (third figure below) are greatest for homes with the lowest restaurant density ranking. This may say just as much about the significant price disparity in the housing market in Miami as it does about the impact of restaurant proximity to a home and its sale price. Still, there appears to be a greater positive correlation between a home’s sale price and the number of restaurants nearby than between a home’s sale price and the number of schools nearby. 
 
-![Alt text](../my%20copies/Wednesday%20branch%20back-up%20(all%20goods)/Images/sales_median_restaurant_density_bar.png)
+<img src="Images/sales_median_restaurant_density_bar.png">
 
-![Alt text](../my%20copies/Wednesday%20branch%20back-up%20(all%20goods)/Images/sales_count_restaurant_density_pie.png)
+<img src="Images/sales_count_restaurant_density_pie.png">
 
-![Alt text](../my%20copies/Wednesday%20branch%20back-up%20(all%20goods)/Images/sales_total_restaurant_density_pie.png)
+<img src="Images/sales_total_restaurant_density_pie.png">
